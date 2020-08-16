@@ -1,9 +1,7 @@
-### Hi there 👋
+# 안녕하세요! 저는 프로그래밍을 좋아하는 중학생 개발자 DIA 입니다.
 
 <!--
-**dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skill
+ - C
+ - Python
+ - C#
+ - JS
+ 
+## Project
+ - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
+ 
+## Team
+ - Team WAVE
+ - Team IF
+ 
+## Info
+ - DISCORD: DYA#7745
+ - EMAIL: diaprvw@gmail.com
