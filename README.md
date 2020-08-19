@@ -26,6 +26,6 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
  - Team WAVE
  - Team IF
  
-## Info
+## About
  - DISCORD: DYA#7745
  - EMAIL: diaprvw@gmail.com
