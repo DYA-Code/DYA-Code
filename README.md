@@ -27,5 +27,5 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
  - Team IF
  
 ## About
- - DISCORD: DYA | 댜#7745
+ - DISCORD: DYA 라는게 밀츠의 정설#7745
  - EMAIL: diaprvw@gmail.com
