@@ -18,6 +18,8 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
  - Python
  - C#
  - JS
+ - html
+ - css
  
 ## Project
  - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
@@ -25,7 +27,8 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 ## Team
  - Team WAVE
  - Team IF
+ - Team Nameless
  
 ## About
- - DISCORD: let dia = new DIA();#7745
+ - DISCORD: †ダイア†#7745
  - EMAIL: diaprvw@gmail.com
