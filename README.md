@@ -1,4 +1,4 @@
-# 안녕하세요! 저는 프로그래밍을 좋아하는 중학생 개발자 DIA 입니다.
+# Hi, I'm Student Developer from Korea.
 
 <!--
 dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
