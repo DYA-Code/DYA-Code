@@ -30,5 +30,5 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
  - Team Nameless
  
 ## About
- - DISCORD: †ダイア†#7745
+ - DISCORD: †ダイヤ†#0033
  - EMAIL: diaprvw@gmail.com
