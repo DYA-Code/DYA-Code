@@ -23,6 +23,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
  
 ## Project
  - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
+ - ComInFo: NodeJs 로 개발된 컴퓨터 정보를 보여주는 웹사이트 (현재 개발중)
  
 ## Team
  - Team WAVE
