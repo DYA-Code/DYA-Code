@@ -14,12 +14,17 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 -->
 
 ## Skill
+
+Language
  - C
- - Python
  - C#
+ - Python
  - JS
- - html
- - css
+ - Html
+ - Css
+ 
+ Framework
+ - Bootstrap
  
 ## Project
  - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
@@ -28,6 +33,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 ## Team
  - Team WAVE
  - Team IF
+ - Team KoDiNa
  - Team Nameless
  
 ## About
