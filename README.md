@@ -37,5 +37,5 @@ Language
  - Team Nameless
  
 ## About
- - DISCORD: D14OvO#0033
+ - DISCORD: D14_OvO#0033
  - EMAIL: diaprvw@gmail.com
