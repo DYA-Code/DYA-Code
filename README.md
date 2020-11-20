@@ -28,8 +28,8 @@ Language
  
 ## Project
  - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
- - ComInFo: NodeJs 로 개발된 컴퓨터 정보를 보여주는 웹사이트 *Team IF 프로젝트로 이전*
- - Anumity: NodeJs 로 개발된 애니 TOP과 최신 애니 등을 크롤링하여 보여주는 웹사이트 *개발 보류중*
+ - ComInFo: NodeJs 로 개발된 컴퓨터 정보를 보여주는 웹사이트 - *Team IF 프로젝트로 이전*
+ - Anumity: NodeJs 로 개발된 애니 TOP과 최신 애니 등을 크롤링하여 보여주는 웹사이트 - *개발 보류중*
  
 ## Team
  - Team WAVE
