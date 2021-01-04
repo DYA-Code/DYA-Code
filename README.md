@@ -13,7 +13,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23474747&title_bg=%236A6A6A&icon=&icon_color=%236E6E6E&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdia-7691&count_bg=%23474747&title_bg=%236A6A6A&icon=&icon_color=%236E6E6E&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Skill
 
