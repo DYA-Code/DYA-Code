@@ -20,8 +20,8 @@ Language
  - C#
  - Python
  - JS
- - Html
- - Css
+ - Html, Css
+ - Kotlin (Learning...)
  
  Framework
  - Bootstrap
