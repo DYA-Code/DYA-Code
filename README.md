@@ -38,5 +38,7 @@ Language
  - Team IF
  
 ## About
+ - WEBSITE: dev-dia.me
  - DISCORD: D14_OvO#0033
  - EMAIL: diaprvw@gmail.com
+ - NOTION: blog.dev-dia.me
