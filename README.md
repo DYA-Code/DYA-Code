@@ -34,8 +34,6 @@ Language
 ## Team
  - Team WAVE
  - Team IF
- - Team KoDiNa
- - Team Nameless
  
 ## About
  - DISCORD: D14_OvO#0033
