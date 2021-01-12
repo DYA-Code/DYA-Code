@@ -1,4 +1,4 @@
-# Hi, I'm Student Developer from Korea.
+# Hi, I'm Student Coder from Korea.
 
 <!--
 dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Language
  - Python
  - JS
  - Html, Css
- - Kotlin (Learning...)
+ - deno (Learning...)
  
  Framework
  - Bootstrap
