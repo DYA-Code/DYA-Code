@@ -27,10 +27,10 @@ Language
  - Python
  - JS
  - Html, Css
- - deno (Learning...)
  
  Framework
  - Bootstrap
+ - Vue.js (Learning... => https://github.com/DIA-Learn/Learn-Vue-js)
  
 ## Project
  - Fever Remedy: C# 으로 개발된 해열제 양 체크 프로그램
