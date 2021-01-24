@@ -16,7 +16,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DYA-Code&count_bg=%23474747&title_bg=%236A6A6A&icon=&icon_color=%236E6E6E&title=view&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dya-code&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dya-code)](https://github.com/anuraghazra/github-readme-stats)
 
