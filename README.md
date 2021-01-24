@@ -29,6 +29,7 @@ Language
  - Python
  - JS
  - Html, Css
+ - Rust
  
  Framework
  - Bootstrap
