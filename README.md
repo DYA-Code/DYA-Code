@@ -18,7 +18,7 @@ dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (t
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dya-code&show_icons=true&theme=radical
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dya-code)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dya-code)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skill
