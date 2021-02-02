@@ -45,7 +45,7 @@ Language
  - Team IF
  
 ## About
- - WEBSITE: dev-dia.me
- - DISCORD: diavery#0033
+ - WEBSITE: http://dev-dia.me
+ - DISCORD: Dya-Code#0033
  - EMAIL: diaprvw@gmail.com
- - NOTION: blog.dev-dia.me
+ - NOTION: http://blog.dev-dia.me
