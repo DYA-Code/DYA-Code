@@ -27,7 +27,7 @@ Language
  - C
  - C#
  - Python
- - JS
+ - JS, TS
  - Html, Css
  - Rust
  
