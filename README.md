@@ -41,11 +41,12 @@ Language
  - HyStats: VueJs 로 개발된 하이픽셀 스탯을 보여주는 웹사이트
  
 ## Team
- - Team WAVE
- - Team IF
+ - Team WAVE   https://teamwv.ml
+ - Team IF     https://teamif.io
+ - Team Sirius https://team.dply.app
  
 ## About
  - WEBSITE: http://dev-dia.me
- - DISCORD: DIA#0033
+ - DISCORD: Dya-Code#0033
  - EMAIL: diaprvw@gmail.com
  - NOTION: http://blog.dev-dia.me
