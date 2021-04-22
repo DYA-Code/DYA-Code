@@ -33,7 +33,8 @@ Language
  
  Framework
  - Bootstrap
- - Vue.js (Learning... => https://github.com/DIA-Learn/Learn-Vue-js)
+ - Vue.js (Learning)
+ - React.js (Learning)
  
 ## Project
  - ComInFo: NodeJs 로 개발된 컴퓨터 정보를 보여주는 웹사이트 - *Team IF 프로젝트로 이전*
