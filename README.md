@@ -1,4 +1,4 @@
-# Hi, I'm Student Coder from Korea.
+# Student Coder DIA
 
 <!--
 dia-7691/dia-7691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +33,8 @@ Language
  
  Framework
  - Bootstrap
- - Vue.js (Learning)
- - React.js (Learning)
+ - Vue.js
+ - React.js
  
 ## Project
  - ComInFo: NodeJs 로 개발된 컴퓨터 정보를 보여주는 웹사이트 - *Team IF 프로젝트로 이전*
@@ -48,6 +48,6 @@ Language
  
 ## About
  - WEBSITE: http://dev-dia.me
- - DISCORD: Dya-Code#0033
+ - DISCORD: DIA#2021
  - EMAIL: diaprvw@gmail.com
  - NOTION: http://blog.dev-dia.me
